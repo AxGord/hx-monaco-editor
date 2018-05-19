@@ -1,0 +1,11 @@
+{
+  "name": "monaco-editor",
+  "url": "https://github.com/axgord/hx-monaco-editor",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["js", "javascript", "html5"],
+  "description": "Monaco Editor Haxe externs",
+  "version": "0.13.0",
+  "releasenote": "",
+  "contributors": ["axgord"]
+}
